@@ -4,6 +4,8 @@ A chrome extension that reminds the user to take regular breaks for drinking wat
 
 **:2nd_place_medal: Runner-up at Mozohack 2.1 organized by SRMKZILLA team! :partying_face:** <br>
 
+<hr>
+
 ## Features :sparkles:
 - :clock3: Regular Reminders
 - :memo: Task Manager
