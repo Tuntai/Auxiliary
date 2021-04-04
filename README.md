@@ -11,7 +11,7 @@ A chrome extension that reminds the user to take regular breaks for drinking wat
 - :lotus_position_woman: Simple Yoga Suggestions
 - :musical_note: Soothing Musical Playlists
 - :six_pointed_star: Quotes for Daily Motivation 
-## ScreenShots
+## ScreenShots :camera_flash:
 ![Screenshot1](popup.png)      
 
 ## Load Auxiliary locally :computer:
